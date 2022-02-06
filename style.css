@@ -64,10 +64,13 @@ footer {
 }
 
 
+
+
 .sekcja3 {
     width: 25%;
     float: left;
     margin-top: 10px;
+    
     
 }
 
@@ -75,7 +78,7 @@ footer {
     width: 25%;
     float: left;
     margin-top: 10px;
-   
+    
 }
 .sekcja5 {
     width: 25%;
@@ -91,12 +94,15 @@ footer {
 }
 
 
+
+
 .div1 {
     width: 95%;
     margin-bottom: 100px;
     background-color: aliceblue;
     border: 1px solid black;
-    
+    clear:left;
+    height: 250px;
 }
 
 .div2 {
@@ -104,6 +110,8 @@ footer {
     margin-bottom: 100px;
     background-color: aqua;
     border: 1px solid black;
+    clear: left;
+    height: 250px;
 }
 
 .div3 {
@@ -111,6 +119,8 @@ footer {
     margin-bottom: 100px;
     background-color: bisque;
     border: 1px solid black;
+    clear: left;
+    height: 250px;
 }
 
 .div4 {
@@ -118,5 +128,11 @@ footer {
     margin-bottom: 100px;
     background-color: wheat;
     border: 1px solid black;
+    clear: left;
+    height: 250px;
 }
 
+.clear {
+    clear: both;
+    
+}
