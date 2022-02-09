@@ -51,6 +51,11 @@ footer {
 
 }
 
+.p2 {
+    position: relative;
+    left: 20px;
+}
+
 .header2 {
     width: 100%;
     background-color: greenyellow;
@@ -102,7 +107,7 @@ footer {
     background-color: aliceblue;
     border: 1px solid black;
     clear:left;
-    height: 250px;
+    
 }
 
 .div2 {
@@ -111,7 +116,7 @@ footer {
     background-color: aqua;
     border: 1px solid black;
     clear: left;
-    height: 250px;
+    
 }
 
 .div3 {
@@ -120,7 +125,7 @@ footer {
     background-color: bisque;
     border: 1px solid black;
     clear: left;
-    height: 250px;
+   
 }
 
 .div4 {
@@ -129,7 +134,7 @@ footer {
     background-color: wheat;
     border: 1px solid black;
     clear: left;
-    height: 250px;
+    
 }
 
 .clear {
